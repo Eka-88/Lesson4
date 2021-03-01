@@ -38,6 +38,7 @@ header{
 .section-title{
 	color: #000000;
 	font-size: 24px;
+	font-family: 'RocknRoll One', sans-serif;
 }
 .box{
 	margin-top: 30.8px;
@@ -55,6 +56,7 @@ header{
 	color: #3D58A6;
 	font-size: 22px;
 	margin-bottom: 14px;
+	font-family: 'RocknRoll One', sans-serif;
 }
 .icon1{
 	height: : 130.5px;
@@ -68,6 +70,7 @@ header{
 	vertical-align: middle;
 	color: #58595B;
 	font-size: 20px;
+	font-family: 'DotGothic16';
 }
 /*<right box styles>*/
 .right-box{
@@ -80,6 +83,7 @@ header{
 	color: #3D58A6;
 	font-size: 22px;
 	margin-bottom: 15px;
+	font-family: 'RocknRoll One', sans-serif;
 }
 .icon2{
 	height: 127.51px;
@@ -93,6 +97,7 @@ header{
 	vertical-align: middle;
 	color: #333333;
 	font-size: 20px;
+	font-family: 'DotGothic16';
 }
 /*<fooret styles>*/
 .social-fb{
