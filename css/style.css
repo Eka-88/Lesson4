@@ -71,6 +71,10 @@ header{
 	color: #58595B;
 	font-size: 20px;
 	font-family: 'DotGothic16';
+	letter-spacing: 2px;
+	text-transform: capitalize;
+	font-style: italic;
+	line-height: 1.4;
 }
 /*<right box styles>*/
 .right-box{
@@ -98,6 +102,10 @@ header{
 	color: #333333;
 	font-size: 20px;
 	font-family: 'DotGothic16';
+	letter-spacing: 1px;
+	text-transform: capitalize;
+	font-style: italic;
+	line-height: 1.4;
 }
 /*<fooret styles>*/
 .social-fb{
@@ -151,6 +159,7 @@ footer{
 	font-size: 20px;
 	margin-bottom: 17.5px;
 	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-weight: 300;
 }
 .image1{
 	width: 270px;
@@ -168,10 +177,16 @@ footer{
 	font-size:16px;
 	margin-bottom: 22px;
 	font-family: 'BPG Ingiri Arial';
+	text-indent: 30px;
+	line-height: 1.5;
+	letter-spacing: 1px;
 }
 .text2{
 	margin-bottom: 37px;
 	font-family: 'BPG Ingiri Arial';
+	text-indent: 30px;
+	line-height: 1.5;
+	letter-spacing: 1px;
 }
 .section1-box{
 	margin-bottom: 38px;
@@ -206,11 +221,13 @@ footer{
 	font-size: 20px;
 	margin-bottom: 12px;
 	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+	letter-spacing: 1px;
 }
 .contact-span{
 	color: #808080;
 	font-size: 16px;
 	font-family: 'BPG Ingiri Arial';
+	font-style: italic;
 }
 .contact-li{
 	margin-bottom: 10px;
